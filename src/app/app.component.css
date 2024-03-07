@@ -1,0 +1,15 @@
+.card {
+  background-color: aliceblue;
+  border: 1px dashed black;
+  padding: 10px;
+  border-radius: 20px;
+  margin: 40px;
+}
+
+.card p {
+  margin: 10px 0;
+}
+
+.card p:hover {
+  color: green;
+}
